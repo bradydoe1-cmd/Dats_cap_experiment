@@ -2,4 +2,4 @@
 #Activity for Class
 . . 0 
 . . X
-. . .
+X . .
